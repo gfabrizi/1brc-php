@@ -1,0 +1,5 @@
+.idea
+/data/measurements*.txt
+/results/*
+/results*.tar.gz
+/1brc-php.tar.gz
